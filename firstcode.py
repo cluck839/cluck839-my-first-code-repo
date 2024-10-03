@@ -1,1 +1,2 @@
-print('Hellow world :p')
+print('Hello world :p')
+print('Removed the extra w in Hello')
